@@ -1,11 +1,3 @@
-# 🖥️ VLSI Design Project
-
-> A complete VLSI Design project demonstrating digital circuit design, simulation, verification, and implementation using industry-standard EDA tools.
-
-![License](https://img.shields.io/badge/License-MIT-green)
-![Language](https://img.shields.io/badge/HDL-Verilog-blue)
-![Platform](https://img.shields.io/badge/Platform-Linux-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
